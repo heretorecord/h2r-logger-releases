@@ -1,2 +1,6 @@
-# h2r-logger-releases
-Releases for H2R Logger
+# H2R Logger
+
+Log your live edits for ultimate post-production control.
+
+
+Learn more about this project [here](https://heretorecord.com/logger/)!
